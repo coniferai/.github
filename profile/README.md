@@ -1,2 +1,2 @@
 ## conifer.ai  
-hi there
+hi there, remotely from Tartu!
